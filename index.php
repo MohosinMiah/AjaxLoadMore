@@ -32,6 +32,7 @@ include 'DAO.php';
 
 <div class="col-md-12">
     <h1 class="jumbotron text-center text-primary">Ajax Load More Example</h1>
+    <a href="checkNameAvailable.php">Check Name Availablility</a>
 
 </div>
 <div class="col-md-12">
